@@ -1,0 +1,33 @@
+{
+  "name": "vow-asker",
+  "version": "0.1.7",
+  "description": "",
+  "main": "./lib/vow-asker.js",
+  "scripts": {
+    "test": "./node_modules/.bin/nodeunit ./test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nodules/vow-asker.git"
+  },
+  "keywords": [
+    "http",
+    "request",
+    "client",
+    "vow",
+    "promises"
+  ],
+  "author": {
+    "name": "Phillip Kovalev",
+    "email": "twilightfeel@gmail.com"
+  },
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "asker": "0.1.6",
+    "vow": "0.3.1"
+  },
+  "devDependencies": {
+    "nodeunit": "0.8.x"
+  }
+}
