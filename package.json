@@ -4,7 +4,7 @@
   "description": "",
   "main": "./lib/vow-asker.js",
   "scripts": {
-    "test": "./node_modules/.bin/nodeunit ./test"
+    "test": "./node_modules/.bin/jshint --config ./.jshintrc ./lib && ./node_modules/.bin/nodeunit ./test"
   },
   "repository": {
     "type": "git",
@@ -17,17 +17,20 @@
     "vow",
     "promises"
   ],
-  "author": {
-    "name": "Phillip Kovalev",
-    "email": "twilightfeel@gmail.com"
-  },
-  "license": "MIT",
+  "author": "Phillip Kovalev <twilightfeel@gmail.com> (https://github.com/kaero)",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/nodules/vow-asker/raw/master/LICENSE"
+    }
+  ],
   "readmeFilename": "README.md",
   "dependencies": {
     "asker": "0.1.8",
     "vow": "0.3.1"
   },
   "devDependencies": {
-    "nodeunit": "0.8.x"
+    "nodeunit": "0.8.x",
+    "jshint": "2.1.x"
   }
 }
