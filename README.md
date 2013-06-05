@@ -1,6 +1,6 @@
 # Vow Asker
 
-Module wraps [asker](/kaero/node-asker) API in the [Vow](https://github.com/dfilatov/jspromise) promises implementation.
+Module wraps [asker](https://github.com/nodules/asker) API in the [Vow](https://github.com/dfilatov/jspromise) promises implementation.
 
 # Install
 
@@ -24,4 +24,4 @@ ask({ host : 'ya.ru' })
 
 ## More docs
 
-See [asker](/kaero/node-asker) for documentation about asker options and [Vow](https://github.com/dfilatov/jspromise) for promises docs.
+See [asker](https://github.com/nodules/asker) for documentation about asker options and [Vow](https://github.com/dfilatov/jspromise) for promises docs.
