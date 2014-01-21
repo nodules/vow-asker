@@ -27,7 +27,7 @@
   "readmeFilename": "README.md",
   "dependencies": {
     "asker": "0.3.1",
-    "vow": "0.3.1"
+    "vow": "0.4.1"
   },
   "devDependencies": {
     "nodeunit": "0.8.x",
