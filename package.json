@@ -1,6 +1,6 @@
 {
   "name": "vow-asker",
-  "version": "0.6.1",
+  "version": "0.6.2",
   "description": "",
   "main": "./lib/vow-asker.js",
   "scripts": {
@@ -26,8 +26,8 @@
   ],
   "readmeFilename": "README.md",
   "dependencies": {
-    "asker": "0.4.1",
-    "vow": "0.4.1"
+    "asker": "0.4.2",
+    "vow": "0.4.3"
   },
   "devDependencies": {
     "nodeunit": "0.8.x",
