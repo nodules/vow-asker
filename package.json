@@ -1,6 +1,6 @@
 {
   "name": "vow-asker",
-  "version": "0.6.6",
+  "version": "0.7.0",
   "description": "",
   "main": "./lib/vow-asker.js",
   "scripts": {
