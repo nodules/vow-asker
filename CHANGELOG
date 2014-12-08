@@ -1,3 +1,15 @@
+vow-asker (0.8.0); urgency=low
+
+  * update asker to 0.6.0
+
+ -- Phillip Kovalev <twilightfeel@gmail.com>  Mon, 08 Dec 2014 10:08:34 +0300
+
+vow-asker (0.7.0); urgency=low
+
+  * update asker to 0.5.0
+
+ -- Phillip Kovalev <twilightfeel@gmail.com>  Fri, 3 Oct 2014 18:38:00 +0400
+
 vow-asker (0.6.3); urgency=low
 
   * update asker to 0.4.3
