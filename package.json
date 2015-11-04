@@ -1,10 +1,13 @@
 {
   "name": "vow-asker",
-  "version": "0.8.2",
-  "description": "",
+  "version": "1.0.0-alfa.1",
+  "description": "Module wraps asker API in the vow promises implementation",
   "main": "./lib/vow-asker.js",
   "scripts": {
-    "test": "jshint --config .jshintrc lib && nodeunit test"
+    "lint": "eslint lib test && jscs lib test",
+    "unit": "nodeunit test",
+    "test": "npm run unit",
+    "pretest": "npm run lint"
   },
   "repository": {
     "type": "git",
@@ -26,11 +29,15 @@
   ],
   "readmeFilename": "README.md",
   "dependencies": {
-    "asker": "0.6.2",
-    "vow": "0.4.3"
+    "asker": "^1.0.0",
+    "vow": "^0.4.11"
   },
   "devDependencies": {
-    "nodeunit": "0.8.x",
-    "jshint": "2.1.x"
+    "eslint": "^1.9.0",
+    "eslint-config-nodules": "^0.1.1",
+    "jscs": "^2.5.1",
+    "jscs-preset-nodules": "^0.1.0",
+    "jshint": "2.1.x",
+    "nodeunit": "0.8.x"
   }
 }
