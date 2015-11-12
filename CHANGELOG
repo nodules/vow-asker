@@ -1,55 +1,62 @@
-vow-asker (0.8.2); urgency=low
+# Changelog
 
-  * update asker to 0.6.2
+## 1.0.0 - 2015-11-12
 
- -- Phillip Kovalev <twilightfeel@gmail.com>  Mon, 18 May 2015 19:38:20 +0300
+Vladimir Varankin <nek.narqo@gmail.com>
 
-vow-asker (0.8.1); urgency=low
+* update asker to 1.0.0
 
-  * update asker to 0.6.1
+## 0.8.2 - 2015-05-18
 
- -- Phillip Kovalev <twilightfeel@gmail.com>  Mon, 30 Mar 2015 11:39:06 +0300
+Phillip Kovalev <twilightfeel@gmail.com>
 
-vow-asker (0.8.0); urgency=low
+* update asker to 0.6.2
 
-  * update asker to 0.6.0
+# 0.8.1 - 2015-03-30
 
- -- Phillip Kovalev <twilightfeel@gmail.com>  Mon, 08 Dec 2014 10:08:34 +0300
+Phillip Kovalev <twilightfeel@gmail.com>
 
-vow-asker (0.7.0); urgency=low
+* update asker to 0.6.1
 
-  * update asker to 0.5.0
+## 0.8.0 - 2014-12-08
 
- -- Phillip Kovalev <twilightfeel@gmail.com>  Fri, 3 Oct 2014 18:38:00 +0400
+Phillip Kovalev <twilightfeel@gmail.com>
 
-vow-asker (0.6.3); urgency=low
+* update asker to 0.6.0
 
-  * update asker to 0.4.3
+## 0.7.0 - 2014-10-03
 
- -- Phillip Kovalev <twilightfeel@gmail.com>  Mon, 12 May 2014 18:42:03 +0400
+Phillip Kovalev <twilightfeel@gmail.com>
 
-vow-asker (0.6.2); urgency=low
+* update asker to 0.5.0
 
-  * update asker to 0.4.2
-  * update vow to 0.4.3
+## 0.6.3 - 2014-05-12
 
- -- Phillip Kovalev <twilightfeel@gmail.com>  Mon, 12 May 2014 16:35:48 +0400
+Phillip Kovalev <twilightfeel@gmail.com>
 
-vow-asker (0.6.1); urgency=low
+* update asker to 0.4.3
 
-  * update asker to 0.4.1
+## 0.6.2 - 2014-05-12
 
- -- Phillip Kovalev <twilightfeel@gmail.com>  Tue, 08 Apr 2014 10:03:11 +0400
+Phillip Kovalev <twilightfeel@gmail.com>
 
-vow-asker (0.6.0); urgency=low
+* update asker to 0.4.2
+* update vow to 0.4.3
 
-  * update asker to 0.4.0
+## 0.6.1 - 2014-04-08
 
- -- Phillip Kovalev <twilightfeel@gmail.com>  Mon, 07 Apr 2014 14:57:13 +0400
+Phillip Kovalev <twilightfeel@gmail.com>
 
-vow-asker (0.5.0); urgency=low
+* update asker to 0.4.1
 
-  * update vow to 0.4.1 (dfilatov)
+## 0.6.0 - 2014-04-07
 
- -- Phillip Kovalev <twilightfeel@gmail.com>  Thu, 23 Jan 2014 14:32:21 +0400
+Phillip Kovalev <twilightfeel@gmail.com>
 
+* update asker to 0.4.0
+
+## 0.5.0 - 2014-01-23
+
+Phillip Kovalev <twilightfeel@gmail.com>
+
+* update vow to 0.4.1 (@dfilatov)

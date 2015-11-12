@@ -29,6 +29,7 @@ ask({ host : 'ya.ru' })
 ## More docs
 
 See [asker](https://github.com/nodules/asker) for documentation about asker options and [Vow](https://github.com/dfilatov/vow) for promises docs.
+
 [npm-image]: https://img.shields.io/npm/v/vow-asker.svg?style=flat
 [npm-link]: https://npmjs.org/package/vow-asker
 [deps-image]: https://img.shields.io/david/nodules/vow-asker.svg?style=flat
