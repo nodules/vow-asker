@@ -1,5 +1,11 @@
 # Changelog
 
+## 2.0.0 - 2019-03-06
+
+Ruslan Kerimov <rus.kerimov@gmail.com>
+
+* update asker to 2.0.0
+
 ## 1.0.0 - 2015-11-12
 
 Vladimir Varankin <nek.narqo@gmail.com>
