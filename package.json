@@ -1,6 +1,6 @@
 {
   "name": "vow-asker",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Module wraps asker API in the vow promises implementation",
   "main": "./lib/vow-asker.js",
   "scripts": {
